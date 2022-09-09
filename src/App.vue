@@ -1,16 +1,16 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <Gridcomponent></Gridcomponent>
+  <grid-component-vue></grid-component-vue>
 </template>
 
 <script>
-import Gridcomponent from './components/gridcomponent.vue';
-
+import gridComponentVue from './components/gridComponent.vue';
 export default {
   name: 'App',
   components: {
-    Gridcomponent
-}
+    gridComponentVue
+
+  }
 }
 </script>
 
