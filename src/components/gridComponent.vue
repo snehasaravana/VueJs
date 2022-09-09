@@ -1,6 +1,6 @@
 <template>
   <div >
-    <h3 class="col-sm btn btn-dark">Grid with list of users</h3>
+    <h3 class="col-sm btn btn-dark"> Dynamic Grid with list of users</h3>
     <table class="table ">
       <thead >
         <tr>
