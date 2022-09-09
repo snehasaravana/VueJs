@@ -1,0 +1,14 @@
+[
+    {"name":"Elena","email":"elena0501@gmail.com","phone":"9876543210","city":"Bangalore","country":"India","dob":"05-01-2000"},
+    {"name":"Caroline","email":"caroline@gmail.com","phone":"9876543210","city":"Chennai","country":"India","dob":"30-10-1998"},
+    {"name":"Bonnie","email":"bonnie@gmail.com","phone":"9876543210","city":"Coimbatore","country":"India","dob":"27-01-1997"},
+    {"name":"Katherine","email":"kathy@gmail.com","phone":"9876543210","city":"Bangalore","country":"India","dob":"02-01-1990"},
+    {"name":"Amara","email":"amara@gmail.com","phone":"9876543210","city":"Chennai","country":"India","dob":"10-09-2000"},
+
+    {"name":"Rebekah","email":"rebekah@gmail.com","phone":"9876543210","city":"Hyderabad","country":"India","dob":"15-03-1999"},
+    {"name":"Hayley","email":"hayley@gmail.com","phone":"9876543210","city":"Kochin","country":"India","dob":"03-06-1990"},
+    {"name":"Freya","email":"freya@gmail.com","phone":"9876543210","city":"Mumbai","country":"India","dob":"27-05-1998"},
+    {"name":"Davina","email":"davina@gmail.com","phone":"9876543210","city":"Hyderabad","country":"India","dob":"23-05-1995"},
+    {"name":"Ester","email":"ester@gmail.com","phone":"9876543210","city":"Coimbatore","country":"India","dob":"06-12-2000"}
+
+   ]
